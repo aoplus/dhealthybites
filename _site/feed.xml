@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dhanvi's Healthy Bites</title>
+    <description></description>
+    <link>www.dhealthybites.com/</link>
+    <atom:link href="www.dhealthybites.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 14 Aug 2017 07:20:27 +0530</pubDate>
+    <lastBuildDate>Mon, 14 Aug 2017 07:20:27 +0530</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+  </channel>
+</rss>
